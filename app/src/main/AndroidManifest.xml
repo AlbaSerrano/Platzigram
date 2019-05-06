@@ -33,5 +33,4 @@
                 android:value=".LoginActivity" />
         </activity>
     </application>
-
 </manifest>
