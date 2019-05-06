@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">Platzigram</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="title_activity_referencia">Actividad referencia</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">Alba Serrano</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumbercard_card">me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home" translatable="false">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation" translatable="false">BottomNavigationActivity</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="titleimage_detail" translatable="false">\"Todo copas en la playa\"</string>
+    <string name="textContent_image">Cuántas veces os habéis imaginado en una isla paradisiaca;
+        el silencio, el sol, el mar… Seguro que son muchos los momentos en los que os habéis querido
+        evadir de la realidad y es normal que lo primero que os venga a la mente es uno de estos
+        idílicos lugares. El escenario perfecto para olvidarse de lo malo, desconectar y sobre todo…
+        ¡Encontrar paz e inspiración!.
+        Relajarse en sus playas escondidas donde las únicas huellas que verás son las tuyas
+        y disfrutar de un atardecer con esa diversidad de colores,
+        lo convierten en un auténtico paraíso, un sueño del que una no quiere despertar…
+        Por lo que si tendríais la ocasión de viajar a una de
+        estas maravillas que brinda el planeta rodeadas de océano, ¿os ibais a negar?
+        </string>
+    <string name="transitionname_picture" translatable="false">transitionnamepicture</string>
+</resources>

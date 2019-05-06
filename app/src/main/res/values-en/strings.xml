@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="title_activity_referencia">Actividad referencia</string>
+    <string name="dont_have_account">¿Dont have account?,</string>
+    <string name="create_here">create here</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_button_createaccount">Join Us</string>
+    <string name="toolbar_tittle_createaccount">Create Account</string>
+    <string name="username_card">Alba Serrano</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumbercard_card">me gusta</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_profile">Me</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="textContent_image">Cuántas veces os habéis imaginado en una isla paradisiaca; el silencio, el sol, el mar… Seguro que son muchos los momentos en los que os habéis querido evadir de la realidad y es normal que lo primero que os venga a la mente es uno de estos idílicos lugares. El escenario perfecto para olvidarse de lo malo, desconectar y sobre todo… ¡Encontrar paz e inspiración!. Por lo que si tendríais la ocasión de viajar a una de estas maravillas que brinda el planeta rodeadas de océano, ¿os ibais a negar?  Pues bien amigas, este planteamiento es el que nos hicimos hace unos meses cuando nos surgió la oportunidad de viajar a una de las islas más bellas que hayamos visto en nuestra vida. Y es que como ya os hemos dicho en varias ocasiones Luna Maga Ibiza nace de la inspiración de los viajes y experiencias vividas en cada uno de ellos, y, sin duda alguna, de todos hemos aprendido. Nuestro corazón nos latía con fuerza por la incomparable mezcla de sensaciones que despierta la aventura de viajar, así que con locura y emoción nos lanzamos directas a por nuestro amado pasaporte. Y así fue… Maleta en mano y ¡rumbo a Las Bahamas!  A nuestro parecer, como se suele decir, las cosas cuando menos se piensen y se planeen mejor salen, así que nos dejamos llevar al paraíso terrenal…</string>
+</resources>
